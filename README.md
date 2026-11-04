@@ -16,7 +16,7 @@ Agente local que controla o Windows, pesquisa na internet e guarda o que aprende
 - Windows 10 ou 11
 - Python 3.10 ou superior (marque "Add Python to PATH" ao instalar)
 - Ollama instalado e rodando: https://ollama.com/download
-- Cerca de 16 GB de RAM para o modelo de 14B. Com menos, use um modelo menor (veja a seção sobre trocar o modelo).
+- Cerca de 16 GB de VRAM ou RAM para o modelo de 14B(lembrando Ram é extremamente lento para essa finalidade). Com menos, use um modelo menor (veja a seção sobre trocar o modelo).  
 
 ## Instalação
 
