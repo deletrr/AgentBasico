@@ -1,0 +1,10 @@
+langchain-core
+langchain-ollama
+langgraph>=0.3
+customtkinter
+pyautogui
+pyperclip
+pillow
+requests
+beautifulsoup4
+ddgs
